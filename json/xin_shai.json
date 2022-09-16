@@ -1,0 +1,19 @@
+{
+    "xin_shai_panel.inputSamplesFile": "/ifs1/Reotech/user/huangzengfei/pyfile/reohit3/xinShai_wdl/test_wdl1/config.tsv",
+    "xin_shai_panel.run_fastp.fastp_path": "/ifs1/Reotech/pub/biosoft/software/fastp/fastp",
+    "xin_shai_panel.run_fastp.html_report": "/ifs1/Reotech/user/huangzengfei/pyfile/reohit3/xinShai_wdl/test_wdl1/outdir/C08.html",
+    "xin_shai_panel.run_fastp.json_report": "/ifs1/Reotech/user/huangzengfei/pyfile/reohit3/xinShai_wdl/test_wdl1/outdir/C08.json",
+    "xin_shai_panel.bwa_path": "/ifs1/Reotech/pub/biosoft/DNA/DNA_human/DNA_HiSeqExome_v1.0/bin/bwa-0.7.8/bwa",
+    "xin_shai_panel.java_path": "/ifs1/Reotech/pub/biosoft/software/java/jdk1.8.0_77/bin/java",
+    "xin_shai_panel.picard_path": "/ifs1/Reohealth/pub/bio-software/picard-tools/picard.jar",
+    "xin_shai_panel.trimPrimer2fq.bam_trimPrimer2fq_path": "/ifs1/Reotech/user/huangzengfei/pyfile/reohit3/xinShai_wdl/pipeline_old_step/all_step_old/bam_trimPrimer2fq.py",
+    "xin_shai_panel.samtools_path": "/ifs1/Reotech/pub/biosoft/software/anaconda2/bin/samtools",
+    "xin_shai_panel.varscan_path": "/ifs1/Reotech/pub/biosoft/software/anaconda2/envs/bioinfo3/bin/varscan",
+    "xin_shai_panel.snpEff_path": "/ifs1/Reotech/user/zhengchenqing/bin/pipeline/CASeq/exe/snpEff/snpEff/snpEff.jar",
+    "xin_shai_panel.ref": "/ifs1/Reohealth/pub/database/GRCh38/GATK/bundle/hg38/Homo_sapiens_assembly38.fasta",
+    "xin_shai_panel.outdir": "/ifs1/Reotech/user/huangzengfei/pyfile/reohit3/xinShai_wdl/test_wdl1/outdir",
+    "xin_shai_panel.reohit2.python2_path": "/ifs1/Reotech/pub/biosoft/software/anaconda2/envs/test_create/bin/python",
+    "xin_shai_panel.reohit2.reohit2_path": "/ifs1/Reotech/user/huangzengfei/pyfile/reohit3/reohit_miss_flag/bin/Reohit2.py",
+    "xin_shai_panel.reohit2.reohit2_db": "/ifs4/database/Genome/Human/GRCh38/Reohit_database/database.tsv.gz",
+    "xin_shai_panel.reohit2.xinshai_bed": "/ifs1/Reotech/pub/biosoft/DNA/DNASeq_bulid/Modules/Database/ExonCaptureRegion/ExonCaptureRegion_hg38_xinShai/bed/ex_region.sort.bed"
+}
